@@ -1,5 +1,5 @@
 
-📚 # Book Recommendation System
+# 📚 Book Recommendation System
 
 A machine learning–powered recommendation system that suggests books based on metadata and semantic embeddings. Built with LangChain, Chroma vector database, and OpenAI embeddings, this project combines classical data analysis with modern NLP techniques.
 
