@@ -94,7 +94,7 @@ Build a lightweight web app (e.g., Streamlit) for interactive recommendations.
 🤝 Contributing
 
 Contributions are welcome! Please fork the repo and submit a pull request.
-
+Inspired by freeCodeCamp.
 📜 License
 
 MIT License.
