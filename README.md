@@ -3,6 +3,11 @@
 
 A machine learning–powered recommendation system that suggests books based on metadata and semantic embeddings. Built with LangChain, Chroma vector database, and OpenAI embeddings, this project combines classical data analysis with modern NLP techniques.
 
+Example of UI : 
+<img width="2537" height="911" alt="image" src="https://github.com/user-attachments/assets/ef09aa38-e4da-4200-8fe1-f494251de4f3" />
+<img width="2490" height="941" alt="image" src="https://github.com/user-attachments/assets/9bb52a78-2b40-4bff-83dd-48fd708d7a95" />
+
+
 🚀 Features
 
 Content-based recommendations using vector embeddings of book descriptions.
@@ -77,10 +82,6 @@ results = db.similarity_search("space adventure with strong female lead")
 Successfully builds a content-based recommender leveraging embeddings.
 
 Demonstrates meaningful semantic similarity between books.
-
-Example of UI : 
-<img width="2537" height="911" alt="image" src="https://github.com/user-attachments/assets/ef09aa38-e4da-4200-8fe1-f494251de4f3" />
-<img width="2490" height="941" alt="image" src="https://github.com/user-attachments/assets/9bb52a78-2b40-4bff-83dd-48fd708d7a95" />
 
 
 🔮 Future Work
