@@ -77,6 +77,7 @@ results = db.similarity_search("space adventure with strong female lead")
 Successfully builds a content-based recommender leveraging embeddings.
 
 Demonstrates meaningful semantic similarity between books.
+<img width="2537" height="911" alt="image" src="https://github.com/user-attachments/assets/ef09aa38-e4da-4200-8fe1-f494251de4f3" />
 
 🔮 Future Work
 
