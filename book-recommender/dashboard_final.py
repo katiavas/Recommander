@@ -9,10 +9,8 @@ from langchain_chroma import Chroma
 from langchain_core.documents import Document
 
 import gradio as gr
-OPENAI_API_KEY = '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'
 
 load_dotenv()
-OPENAI_API_KEY = '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'
 
 books = pd.read_csv("books_with_emotions.csv")
 books["large_thumbnail"] = books["thumbnail"] + "&fife=w800"
@@ -110,4 +108,5 @@ with gr.Blocks(theme = gr.themes.Glass()) as dashboard:
 
 
 if __name__ == "__main__":
+
     dashboard.launch()
